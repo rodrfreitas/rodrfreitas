@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Freitas</h1>
-<h3 align="center">Frontend Developer and UX/UI Designer with experience in designing solutions and digital products for different industries.</h3>
+<h3 align="center">Front-End Developer and UX/UI Designer with experience in designing solutions and digital products for different industries.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
